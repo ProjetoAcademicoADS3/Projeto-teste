@@ -14,7 +14,7 @@ public class Classe_Teste {
         
         int a = 9;
         int b = 9;
-        int resultado = a + b;
+        int resultado = a + b * 2;
         
         System.out.println(resultado);
     }
